@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/erogluegemen](https://github.com/erogluegemen)
 
-- 📝 I regularly write articles on [https://medium.com/@erogluegemen](https://medium.com/@erogluegemen)
+- 📝 I rarely write articles on [https://medium.com/@erogluegemen](https://medium.com/@erogluegemen)
 
 - 💬 Ask me about **Python**
 
