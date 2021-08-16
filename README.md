@@ -24,7 +24,7 @@
 <a href="https://instagram.com/egemeneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egemeneroglu" height="30" width="40" /></a>
 <a href="https://medium.com/@erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erogluegemen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erogluegemen" height="30" width="40" /></a>
-<a href="https://discord.gg/Egemen#6535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Egemen#6535" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
