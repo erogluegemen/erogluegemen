@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/erogluegemen](https://github.com/erogluegemen)
+- 👨‍💻 All of my projects are available at [github.com/erogluegemen](https://github.com/erogluegemen)
 
-- 📝 I rarely write articles on [https://medium.com/@erogluegemen](https://medium.com/@erogluegemen)
+- 📝 I rarely write articles on [medium.com/@erogluegemen](https://medium.com/@erogluegemen)
 
 - 💬 Ask me about **Python**
 
