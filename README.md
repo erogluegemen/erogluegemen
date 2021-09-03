@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **erogluegemen@gmail.com**
 
-- 📫 My Webpage [https://egemeneroglu.me/](https://egemeneroglu.me/)
+- 📫 My Webpage [egemeneroglu.me](https://egemeneroglu.me/)
 
 - ⚡ Fun fact **Linux > Windows :p**
 
