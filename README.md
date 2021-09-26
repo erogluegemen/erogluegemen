@@ -1,5 +1,5 @@
 <h1 align="center">print("Hello World") 👋, I'm Egemen</h1>
-<h3 align="center">A passionate junior Data Scientist from Turkey</h3>
+<h3 align="center">Developed by Developer for Developers..</h3>
 
 <p align="left"> <a href="https://twitter.com/erogluegemendev" target="blank"><img src="https://img.shields.io/twitter/follow/erogluegemendev?logo=twitter&style=for-the-badge" alt="erogluegemendev" /></a> </p>
 
