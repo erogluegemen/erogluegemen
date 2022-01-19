@@ -1,7 +1,7 @@
 <h1 align="center">print("Hello World") 👋, I'm Egemen</h1>
 <h3 align="center">Developed by Developer for Developers..</h3>
 
-<p align="left"> <a href="https://twitter.com/egemenerogludev" target="blank"><img src="https://img.shields.io/twitter/follow/erogluegemendev?logo=twitter&style=for-the-badge" alt="egemenerogludev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/egemenerogludev" target="blank"><img src="https://img.shields.io/twitter/follow/egemenerogludev?logo=twitter&style=for-the-badge" alt="egemenerogludev" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and Deep Learning**
 
