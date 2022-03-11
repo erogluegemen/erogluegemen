@@ -15,7 +15,7 @@
 
 - 📫 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (RENEWED!! :partying_face:)
 
-- ⚡ Fun fact **Linux > Windows :p**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
