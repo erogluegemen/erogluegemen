@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erogluegemendev" height="30" width="40" /></a>
-<a href="https://twitter.com/erogluegemendev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egemenerogludev" height="30" width="40" /></a>
+<a href="https://twitter.com/egemenerogludev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egemenerogludev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/egemeneroglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egemen-eroglu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16543953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16543953" height="30" width="40" /></a>
 <a href="https://instagram.com/egemeneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egemeneroglu" height="30" width="40" /></a>
