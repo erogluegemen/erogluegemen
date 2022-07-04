@@ -9,8 +9,6 @@
 
 - 📝 I rarely write articles on [medium.com/@erogluegemen](https://medium.com/@erogluegemen)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **erogluegemen@gmail.com**
 
 - 📫 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (RENEWED!! :partying_face:)
