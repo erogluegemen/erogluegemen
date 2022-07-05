@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/egemenerogludev" target="blank"><img src="https://img.shields.io/twitter/follow/egemenerogludev?logo=twitter&style=for-the-badge" alt="egemenerogludev" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and Deep Learning**
+- 🤖 I’m currently learning **Machine Learning, Artificial Intelligence and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/erogluegemen](https://github.com/erogluegemen)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **erogluegemen@gmail.com**
 
-- 📫 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (RENEWED!! :partying_face:)
+- 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (RENEWED!! :partying_face:)
 
 
 
