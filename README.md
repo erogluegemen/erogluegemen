@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello World") 👋, I'm Egemen</h1>
+<h1 align="center">print("Hello World") 👋, I'm Egemen 👨‍💻</h1>
 <h3 align="center">We are drowning in information while starving for wisdom.</h3>
 
 <p align="left"> <a href="https://twitter.com/egemenerogludev" target="blank"><img src="https://img.shields.io/twitter/follow/egemenerogludev?logo=twitter&style=for-the-badge" alt="egemenerogludev" /></a> </p>
