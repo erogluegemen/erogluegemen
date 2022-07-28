@@ -4,7 +4,7 @@
 
 
 <h3 align="center"> "You, the people have the power - the power to create machines, the power to create happiness. You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure." -The Great Dictator Speech(Charlie Chaplin)</h3>
-<br>
+
 <hr>
 
 - 🤖 I’m currently working on **Data Science**
