@@ -1,7 +1,11 @@
-<h1 align="center">I'm Egemen 👨‍💻</h1>
+<h1 align="center"> profile owner -> Egemen 🖐</h1>
 
 <h3 align="center"><i> "We are drowning in information while starving for wisdom." -E. O. Wilson</i> </h3>
+
+
+<h3 align="center"> "You, the people have the power - the power to create machines, the power to create happiness. You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure." -The Great Dictator Speech(Charlie Chaplin)</h3>
 <br>
+<hr>
 
 - 🤖 I’m currently working on **Data Science**
 
@@ -22,5 +26,6 @@
 <a href="https://www.hackerrank.com/erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erogluegemen" height="30" width="40" /></a>
 </p>
 
+<hr>
 
 ![snake gif](https://github.com/erogluegemen/erogluegemen/blob/output/github-contribution-grid-snake.svg)
