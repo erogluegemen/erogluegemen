@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/egemenerogludev" target="blank"><img src="https://img.shields.io/twitter/follow/egemenerogludev?logo=twitter&style=for-the-badge" alt="egemenerogludev" /></a> </p>
 
+<h3 align="left"><b>I started slowly removing the Turkish repos in my profile or converting them to English. Thank you for your understanding.</b></h3>
+
 - 🤖 I’m currently learning **Machine Learning, Artificial Intelligence and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/erogluegemen](https://github.com/erogluegemen)
