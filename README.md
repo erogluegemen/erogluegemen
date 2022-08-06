@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=profile+owner+-%3E+Egemen+%F0%9F%96%90" alt="Typing SVG"/></a></h1>
 
-<h3 align="center"><i> "We are drowning in information while starving for wisdom." -E. O. Wilson</i></h3>
+<h3 align="center"><i>"We are drowning in information while starving for wisdom." -E. O. Wilson</i></h3>
 
 
 <h3 align="center"> "You, the people have the power - the power to create machines, the power to create happiness. You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure." -The Great Dictator Speech(Charlie Chaplin)</h3>
