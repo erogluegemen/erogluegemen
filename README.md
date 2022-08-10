@@ -8,13 +8,9 @@
 <hr>
 
 - 🤖 I’m currently working on **Data Science**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/erogluegemen)
- 
-- 📝 I rarely write articles on [medium](https://medium.com/@erogluegemen)
-
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/erogluegemen)
+- 📝 I rarely write articles on [Medium](https://medium.com/@erogluegemen)
 - 📫 How to reach me **erogluegemen@gmail.com**
-
 - 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) 
 
 <h3 align="left">Connect with me:</h3>
