@@ -6,12 +6,15 @@
 <h3 align="center"> "You, the people have the power - the power to create machines, the power to create happiness. You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure." -The Great Dictator Speech(Charlie Chaplin)</h3>
 
 <hr>
+<img align="right" width="394" height="200" src="https://user-images.githubusercontent.com/30879498/184037891-0e7b4a1a-458f-409c-b9bb-24a45b383a33.png">
 
 - 🤖 I’m currently working on **Data Science**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/erogluegemen)
 - 📝 I rarely write articles on [Medium](https://medium.com/@erogluegemen)
 - 📫 How to reach me **erogluegemen@gmail.com**
 - 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
