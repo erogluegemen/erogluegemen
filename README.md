@@ -36,4 +36,3 @@
 <hr>
 
 ![snake gif](https://github.com/erogluegemen/erogluegemen/blob/output/github-contribution-grid-snake.svg)
-
