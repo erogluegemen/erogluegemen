@@ -1,4 +1,4 @@
-<h1 align="center"
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=profile+owner+-%3E+Egemen+%F0%9F%96%90" alt="greeting"/></a></h1>
 
 <h3 align="center">
