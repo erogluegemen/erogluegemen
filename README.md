@@ -23,7 +23,7 @@
 
 - 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (Out of Date!)
 
-<h3 align="left">Connect with me:
+<h3 align="left">Accounts:
 </h3>
 
 <p align="left">
