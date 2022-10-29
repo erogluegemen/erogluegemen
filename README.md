@@ -32,6 +32,45 @@
 <a href="https://medium.com/@erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erogluegemen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erogluegemen" height="30" width="40" /></a>
 </p>
+
+<hr>
+
+```bash
+Repositories/
+└── Projects/
+    ├── Bots/
+    │   ├── Zoom-Attendance-Bot 🤖
+    │   ├── Discord-Music-Bot
+    │   ├── Discord-Greeting-Bot-Template
+    │   └── Discord-Notification-Bot
+    │
+    ├── Data Structure & Algorithms 🧮/
+    │   ├── Confusion-Matrix
+    │   ├── Project-Euler-Solutions
+    │   └── Data-Structures-and-Algorithms
+    │
+    ├── Data Science & Data Engineering 📊/
+    │   ├── Describe-Function
+    │   ├── Terror-Data-Analysis
+    │   ├── M2-Metro-Data-Analysis
+    │   ├── Monte-Carlo-Simulation
+    │   ├── Decision-Tree-Algorithm
+    │   ├── Iris-Classification-App
+    │   ├── Heart-Attack-Possibility
+    │   ├── Associated-Rules-Analysis
+    │   ├── Netflix-Data-Analysis_EDA
+    │   ├── Churn-Model-XGBoost-Algorithm
+    │   └── ibbVeri-Ilce-Bazinda-Dogalgaz-Tuketimi
+    │
+    ├── Computer Vision 📸/
+    │   └── ArcFace
+    │
+    └── Notes 📝/
+        ├── MATLAB-MAT2045
+        ├── Seaborn-and-Pandas-Notes
+        └── LinearProgramming-Optimization
+```
+
 <hr>
 
 ![snake gif](https://github.com/erogluegemen/erogluegemen/blob/output/github-contribution-grid-snake.svg)
