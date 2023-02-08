@@ -30,7 +30,7 @@
 <a href="https://kaggle.com/erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erogluegemendev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/egemeneroglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egemen-eroglu" height="30" width="40" /></a>
 <a href="https://medium.com/@erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erogluegemen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/erogluegemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erogluegemen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/erogluegemen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erogluegemen" height="30" width="40" /></a>
 </p>
 
 <hr>
