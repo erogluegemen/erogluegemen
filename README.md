@@ -66,6 +66,7 @@ Repositories/
     ├── Recommender Systems 🤔/
     │   └── Movie-Recommendation-System
     │   └── Article-Recommendation-System
+    │   └── Music-Recommendation-From-The-Scratch
     │   
     ├── Computer Vision 📸/
     │   └── ArcFace
