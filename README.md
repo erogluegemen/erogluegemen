@@ -41,8 +41,8 @@ Repositories/
     ├── Bots/
     │   ├── Zoom-Attendance-Bot 🤖
     │   ├── Discord-Music-Bot
-    │   ├── Discord-Greeting-Bot-Template
-    │   └── Discord-Notification-Bot
+    │   ├── Discord-Notification-Bot
+    │   └── Discord-Greeting-Bot-Template
     │
     ├── Data Structure & Algorithms 🧮/
     │   ├── Confusion-Matrix
@@ -61,7 +61,8 @@ Repositories/
     │   ├── Associated-Rules-Analysis
     │   ├── Netflix-Data-Analysis_EDA
     │   ├── Churn-Model-XGBoost-Algorithm
-    │   └── ibbVeri-Ilce-Bazinda-Dogalgaz-Tuketimi
+    │   ├── ibbVeri-Ilce-Bazinda-Dogalgaz-Tuketimi
+    │   └── Bayesian-Classification-From-The-Scratch
     │
     ├── Recommender Systems 🤔/
     │   └── Movie-Recommendation-System
