@@ -67,7 +67,7 @@ Repositories/
     │   ├── Article-Recommendation-System
     │   └── Music-Recommendation-From-The-Scratch
     │
-    ├── AI in Healtcare 🩻/
+    ├── AI In Healtcare 🩻/
     │   ├── Heart-Attack-Possibility
     │   ├── Predicting-Preterm-Births
     │   └── Breast-Cancer-Diagnosis
