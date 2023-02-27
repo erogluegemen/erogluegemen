@@ -55,9 +55,7 @@ Repositories/
     │   ├── Terror-Data-Analysis
     │   ├── M2-Metro-Data-Analysis
     │   ├── Monte-Carlo-Simulation
-    │   ├── Decision-Tree-Algorithm
     │   ├── Iris-Classification-App
-    │   ├── Heart-Attack-Possibility
     │   ├── Associated-Rules-Analysis
     │   ├── Netflix-Data-Analysis_EDA
     │   ├── Churn-Model-XGBoost-Algorithm
@@ -65,10 +63,15 @@ Repositories/
     │   └── Bayesian-Classification-From-The-Scratch
     │
     ├── Recommender Systems 🤔/
-    │   └── Movie-Recommendation-System
-    │   └── Article-Recommendation-System
+    │   ├── Movie-Recommendation-System
+    │   ├── Article-Recommendation-System
     │   └── Music-Recommendation-From-The-Scratch
-    │   
+    │
+    ├── AI in Healtcare 🩻/
+    │   ├── Heart-Attack-Possibility
+    │   ├── Predicting-Preterm-Births
+    │   └── Breast-Cancer-Diagnosis
+    │
     ├── Computer Vision 📸/
     │   └── ArcFace
     │
