@@ -38,18 +38,13 @@
 ```bash
 Repositories/
 └── Projects/
-    ├── Bots/
-    │   ├── Zoom-Attendance-Bot 🤖
-    │   ├── Discord-Music-Bot
-    │   ├── Discord-Notification-Bot
-    │   └── Discord-Greeting-Bot-Template
+    ├── Recommender Systems 🤔/
+    │   ├── Associated-Rules-Analysis 
+    │   ├── Movie-Recommendation-System 
+    │   ├── Article-Recommendation-System 
+    │   └── Music-Recommendation-From-The-Scratch
     │
-    ├── Data Structure & Algorithms 🧮/
-    │   ├── Confusion-Matrix
-    │   ├── Project-Euler-Solutions
-    │   └── Data-Structures-and-Algorithms
-    │
-    ├── Data Science & Data Engineering 📊/
+    ├── Data Science and Data Engineering 📊/
     │   ├── Circle-To-Square
     │   ├── Describe-Function
     │   ├── Terror-Data-Analysis
@@ -61,16 +56,21 @@ Repositories/
     │   ├── ibbVeri-Ilce-Bazinda-Dogalgaz-Tuketimi
     │   └── Bayesian-Classification-From-The-Scratch
     │
-    ├── Recommender Systems 🤔/
-    │   ├── Movie-Recommendation-System
-    │   ├── Article-Recommendation-System
-    │   ├── Associated-Rules-Analysis  
-    │   └── Music-Recommendation-From-The-Scratch
-    │
     ├── AI In Healtcare 🩻/
     │   ├── Heart-Attack-Possibility
     │   ├── Predicting-Preterm-Births
     │   └── Breast-Cancer-Diagnosis
+    │
+    ├── Data Structure and Algorithms 🧮/
+    │   ├── Confusion-Matrix
+    │   ├── Project-Euler-Solutions
+    │   └── Data-Structures-and-Algorithms
+    │
+    ├── Bots 🤖/
+    │   ├── Zoom-Attendance-Bot 
+    │   ├── Discord-Music-Bot
+    │   ├── Discord-Notification-Bot
+    │   └── Discord-Greeting-Bot-Template
     │
     ├── Computer Vision 📸/
     │   └── ArcFace
