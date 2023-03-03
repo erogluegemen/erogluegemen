@@ -56,7 +56,6 @@ Repositories/
     │   ├── M2-Metro-Data-Analysis
     │   ├── Monte-Carlo-Simulation
     │   ├── Iris-Classification-App
-    │   ├── Associated-Rules-Analysis
     │   ├── Netflix-Data-Analysis_EDA
     │   ├── Churn-Model-XGBoost-Algorithm
     │   ├── ibbVeri-Ilce-Bazinda-Dogalgaz-Tuketimi
@@ -65,6 +64,7 @@ Repositories/
     ├── Recommender Systems 🤔/
     │   ├── Movie-Recommendation-System
     │   ├── Article-Recommendation-System
+    │   ├── Associated-Rules-Analysis  
     │   └── Music-Recommendation-From-The-Scratch
     │
     ├── AI In Healtcare 🩻/
