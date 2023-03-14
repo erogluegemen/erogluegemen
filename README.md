@@ -78,7 +78,8 @@ Repositories/
     └── Notes 📝/
         ├── MATLAB-MAT2045
         ├── Seaborn-and-Pandas-Notes
-        └── LinearProgramming-Optimization
+        ├── LinearProgramming-Optimization 
+        └── Exploring-Data-with-Chaining-in-Pandas      
 ```
 
 <hr>
