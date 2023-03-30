@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/erogluegemen)
 
-- 📝 I rarely write articles on [Medium](https://medium.com/@erogluegemen)
+- 📝 I generally write articles on [Medium](https://medium.com/@erogluegemen)
 
 - 📫 How to reach me **erogluegemen@gmail.com**
 
