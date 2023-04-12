@@ -13,7 +13,7 @@
 
 <img align="right" alt="old me irl xd" width="300" height="230" src="https://user-images.githubusercontent.com/30879498/184037891-0e7b4a1a-458f-409c-b9bb-24a45b383a33.png">
 
-- 🤖 I’m currently working on **genetic algorithms, linear programming and optimization**
+- 🤖 I’m currently working on **Data Engineering, Machine Learning and MLOps**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/erogluegemen)
 
