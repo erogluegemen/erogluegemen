@@ -57,9 +57,9 @@ Repositories/
     │   └── Bayesian-Classification-From-The-Scratch
     │
     ├── AI In Healtcare 🩻/
+    │   ├── Breast-Cancer-Diagnosis
     │   ├── Heart-Attack-Possibility
-    │   ├── Predicting-Preterm-Births
-    │   └── Breast-Cancer-Diagnosis
+    │   └── Predicting-Preterm-Births
     │
     ├── Data Structure and Algorithms 🧮/
     │   ├── Confusion-Matrix
