@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **erogluegemen@gmail.com**
 
-- 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (up-to-date!🥳)
+- 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (not up-to-date! 😔)
 
 <h3 align="left">Accounts:
 </h3>
