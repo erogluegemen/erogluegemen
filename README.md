@@ -15,13 +15,13 @@
 
 - 🤖 I’m currently working on **Data Engineering and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/erogluegemen)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/erogluegemen)
 
 - 📝 I write articles on [Medium](https://medium.com/@erogluegemen)
 
 - 📫 How to reach me **erogluegemen@gmail.com**
 
-- 🌐 My Webpage [egemeneroglu.me](https://egemeneroglu.me/) (not up-to-date! 😔)
+- 🌐 [My Webpage](http://egemeneroglu.pythonanywhere.com/)
 
 <h3 align="left">Accounts:
 </h3>
