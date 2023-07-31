@@ -31,7 +31,8 @@
 </div>
 <br>
 <hr>
-<br clear="both">
+
+<h3>Kaggle Stats:</h3>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/dataset)
