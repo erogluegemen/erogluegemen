@@ -33,4 +33,11 @@
 <hr>
 <br clear="both">
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/discussion)
+
+<hr>
+
 <img src="https://raw.githubusercontent.com/erogluegemen/erogluegemen/output/snake.svg" alt="Snake animation" />
