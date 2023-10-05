@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/erogluegemen)
 
-- 📝 I'm trying to improve myself on [Kaggle](https://www.kaggle.com/erogluegemen)
+- 📝 I'm trying to improve myself about distributed systems.
 - 📫 How to reach me **erogluegemen@gmail.com**
 
 <div align="left">
