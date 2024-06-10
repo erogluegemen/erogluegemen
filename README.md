@@ -23,14 +23,3 @@
   </a>
 </div>
 <br>
-
-<div align="center">
-<h3>Kaggle Stats:</h3>
- It's gone with the latest UI update:( Coming Soon..
-<!--- 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/erogluegemen/discussion)
--->
-</div>
