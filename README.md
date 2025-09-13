@@ -3,9 +3,9 @@
 </div>
  
 <h3 align="center"> 
-  You, the people have the power - the power to create machines, the power to create happiness. You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure. 
-<br>
- - The Great Dictator Speech(Charlie Chaplin)
+  In science, if you know what you are doing, you should not be doing it. <br>
+  In engineering, if you do not know what you are doing, you should not be doing it. <br>
+  - Richard Hamming
 </h3>
 
 <div align="center">
